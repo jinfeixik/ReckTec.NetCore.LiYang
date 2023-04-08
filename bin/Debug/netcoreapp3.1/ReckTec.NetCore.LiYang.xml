@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ReckTec.NetCore.LiYang</name>
+    </assembly>
+    <members>
+        <member name="P:ReckTec.NetCore.LiYang.Models.BaseResult.ErrorCode">
+            <summary>
+            错误码
+            </summary>
+        </member>
+        <member name="P:ReckTec.NetCore.LiYang.Models.BaseResult.Message">
+            <summary>
+            信息提示
+            </summary>
+        </member>
+        <member name="P:ReckTec.NetCore.LiYang.Models.BaseResult.Data">
+            <summary>
+            返回数据
+            </summary>
+        </member>
+    </members>
+</doc>

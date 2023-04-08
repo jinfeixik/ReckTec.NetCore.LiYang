@@ -1,0 +1,48 @@
+﻿{
+  "Groups": [
+    {
+      "ID": "100000",
+      "Name": "服务管理",
+      "Items": [
+        {
+          "ID": "100001",
+          "Name": "服务单",
+          "URL": "newOrder/list"
+        },
+        {
+          "ID": "100002",
+          "Name": "费用调整单",
+          "URL": "expenseClaim/list"
+        }
+      ]
+    },
+    {
+      "ID": "200000",
+      "Name": "配件管理",
+      "Items": [
+        {
+          "ID": "200001",
+          "Name": "配件申请单",
+          "URL": "partsApply/partlist"
+        },
+        {
+          "ID": "200002",
+          "Name": "配件销售单",
+          "URL": "newOrder/list"
+        }
+      ]
+    },
+    {
+      "ID": "300000",
+      "Name": "公告",
+      "Items": [
+        {
+          "ID": "300001",
+          "Name": "公告通知",
+          "URL": "notice/list"
+        }
+      ]
+    }
+  ],
+  "SecretKey": ""
+}
